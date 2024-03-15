@@ -2,7 +2,7 @@ from django.db import models
 from django.conf import settings
 from django.urls import reverse
 from django.utils.text import slugify
-# from accounts.models import User
+from accounts.models import User
 
 import misaka
 
